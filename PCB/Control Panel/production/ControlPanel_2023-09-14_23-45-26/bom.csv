@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+D1,LED_D3.0mm_Horizontal_O6.35mm_Z2.0mm,1,LED,
+J1,PinHeader_2x02_P2.54mm_Vertical_SMD,1,Conn_01x04_Pin,
+J2,TE_1-1734248-2,1,TE_Conn_1-1734248-2,
+R3,0402,1,3K3,C137874
+"RV1, RV2, RV3, RV4",Potentiometer_Bourns_3314R-1_Vertical_Hole,4,R_Potentiometer_US,
