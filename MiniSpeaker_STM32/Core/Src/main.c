@@ -134,7 +134,7 @@ void Power_Toggle(void);
 int main(void)
 {
   /* USER CODE BEGIN 1 */
-  uint32_t stdby = *csr>>1&1; // Standby flag
+  uint32_t stdby = *csr>>1&1; // Standby flag for low-power mode
 
   /* USER CODE END 1 */
 
