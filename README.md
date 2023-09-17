@@ -1,6 +1,6 @@
 # Mini Speaker
 ## Overview
-The goal of this project is to convert the guitar amplifer from LEGO set no. 21379 into functional desktop speaker. Modifications include original and custom 3D-printed parts to support peripherals integration and PCB support. The LEGO amplifier is modeled in Fusion 360 in an effort to assist in the project's vizualization.
+The goal of this project is to convert the guitar amplifer from LEGO set no. 21379 into a functional desktop speaker. Modifications include original and custom 3D-printed parts to support peripherals integration and PCB support. The LEGO amplifier is modeled in Fusion 360 in an effort to assist in the project's vizualization.
 
 ### [Design](3D_Model)
 Features of the amp are exploited to increase the level of user-interaction with the device. Knobs along the front of the control panel house a small 3D-printed coupling device to actuate potentiometers that control volume and other effects. One of the knobs is replaced with a tactile switch to control the device's power state. A 2.5mm jack replaces its LEGO counterpart near the left end of the control panel, supported by two 3D-printed. An LED is placed behind the ruby near the right end of the control panel as a power indicator. A 57mm speaker is hidden within the speaker assembly, adhered to a 3D-printed plate at the center.
